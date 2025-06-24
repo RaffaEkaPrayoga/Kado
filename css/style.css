@@ -19,7 +19,7 @@ body {
     text-align: center;
     padding: 1rem;
 
-    background: linear-gradient(135deg, #1f3a45 ,#091a1f, #01111a);
+    background: linear-gradient(135deg, #3c163b ,#250920, #1a0110);
 }
 
 .greetings {
@@ -73,7 +73,7 @@ body {
     0%,
     100% {
         color: #fff;
-        text-shadow: 0 0 12px #39c6d6, 0 0 50px #39c6d6, 0 0 100px #39c6d6;
+        text-shadow: 0 0 12px #d639ce, 0 0 50px #d639ce, 0 0 100px #d639ce;
     }
 
     10%,
@@ -92,14 +92,14 @@ body {
 .button button {
     border-radius: 20px;
     padding: 10px 20px;
-    background-color: #39c6d6;
+    background-color: #d639c9;
     border: none;
     cursor: pointer;
     transition: background 0.3s ease;
 }
 
 .button button:hover {
-    background-color: #2ba9b6;
+    background-color: #b62baf;
 }
 
 .button a {
